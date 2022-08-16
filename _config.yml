@@ -34,8 +34,8 @@ url: 'https://xptall.github.io'
 github:
   username: xptall             # change to your github username
 
-# twitter:
-  username: xptall            # change to your twitter username
+twitter:
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
