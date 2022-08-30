@@ -31,10 +31,10 @@ order: 4
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=25657602&auto=1&height=66"></iframe>
 
-喜欢的歌：梅艳芳的 **[《夕阳之歌》](https://baike.baidu.com/item/%E5%A4%95%E9%98%B3%E4%B9%8B%E6%AD%8C/16183784)** ，曾陪伴我度过艰难岁月，给予精神上的力量。 `斜阳无限，无奈只一息间灿烂` ，是我最喜欢的歌词。  
+**喜欢的歌**：梅艳芳的 **[《夕阳之歌》](https://baike.baidu.com/item/%E5%A4%95%E9%98%B3%E4%B9%8B%E6%AD%8C/16183784)** ，曾陪伴我度过艰难岁月，给予精神上的力量。 `斜阳无限，无奈只一息间灿烂` ，是我最喜欢的歌词。  
 
-喜欢的社区：**[虫部落](https://www.chongbuluo.com/)**，自由且理性，在开放包容的氛围里友好的讨论是一件很舒适的事情。少数派，优质的文章，对提升生活质量和效率都有不小的帮助。  
+**喜欢的社区**：**[虫部落](https://www.chongbuluo.com/)**，自由且理性，在开放包容的氛围里友好的讨论是一件很舒适的事情。**[少数派](https://sspai.com/)**，优质的文章，对提升生活质量和效率都有不小的帮助。  
 
-喜欢的工具：**[Microsoft TO DO](https://todo.microsoft.com/)** ，微软开发的待办工具，简洁大方，没有多余冗杂的功能，且适合多端同步，值得尝试。  
+**喜欢的工具**：**[Microsoft TO DO](https://todo.microsoft.com/)** ，微软开发的待办工具，简洁大方，没有多余冗杂的功能，且适合多端同步，值得尝试。  
 
-喜欢的运动：散步，尤其是在夏日雨天的傍晚，微凉的风，很是令人舒畅。  
+**喜欢的运动**：散步，尤其是在夏日雨天的傍晚，微凉的风，很是令人舒畅。  
