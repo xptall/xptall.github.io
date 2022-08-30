@@ -13,7 +13,8 @@ order: 4
 ## 我的标签
 
 <div align="center">
-  
+  <p>
+    
 ![handwriting](https://img.shields.io/badge/label-%E4%B9%A6%E6%B3%95%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%80%85-brightgreen)
 ![photography](https://img.shields.io/badge/label-%E6%91%84%E5%BD%B1%E7%88%B1%E5%A5%BD%E8%80%85-green)
 ![website](https://img.shields.io/badge/label-%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F%E5%AE%B6-yellowgreen)
@@ -26,7 +27,8 @@ order: 4
 ![daily](https://img.shields.io/badge/label-%E6%B5%81%E6%B0%B4%E8%B4%A6%E9%AB%98%E6%89%8B-critical)
 ![article](https://img.shields.io/badge/label-%E7%99%BD%E8%AF%9D%E6%96%87%E5%88%B6%E9%80%A0%E6%9C%BA-informational)
 ![poem](https://img.shields.io/badge/label-%E7%BE%8E%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%E7%9A%84%E5%9C%A8%E9%80%83%E8%AF%97%E4%BA%BA-blueviolet)
-  
+    
+  </p>
 </div>
 
 ## 生活&工作理念
