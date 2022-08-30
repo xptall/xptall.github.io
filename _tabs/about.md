@@ -12,7 +12,6 @@ order: 4
 
 ## 我的标签
 
-<div align="center">
   <p>
     <img src="https://img.shields.io/badge/label-%E4%B9%A6%E6%B3%95%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%80%85-brightgreen" alt="handwriting" />
     <img src="https://img.shields.io/badge/label-%E6%91%84%E5%BD%B1%E7%88%B1%E5%A5%BD%E8%80%85-green" alt="photography" />
@@ -27,7 +26,7 @@ order: 4
     <img src="https://img.shields.io/badge/label-%E7%99%BD%E8%AF%9D%E6%96%87%E5%88%B6%E9%80%A0%E6%9C%BA-informational" alt="article" />
     <img src="https://img.shields.io/badge/label-%E7%BE%8E%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%E7%9A%84%E5%9C%A8%E9%80%83%E8%AF%97%E4%BA%BA-blueviolet" alt="poem" />
   </p>
-</div>
+
 
 ## 生活&工作理念
 推崇 **「行稳致远，静水流深」** 的人生状态，并在 **「自信乐观，勇敢坚强」** 的心态下，面对长期的生活和工作。在此之前，健康的体魄显得尤为重要，因此必须把 **「健康第一」** 的理念，贯彻到日常的行为当中，以便更好地处理各种复杂且艰难的问题。以上阐述的本意，是把 **「人的健康全面发展」** 摆在中心位置，以避免出现本末倒置、舍本逐末的不合理现象。
