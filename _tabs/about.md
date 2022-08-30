@@ -14,20 +14,18 @@ order: 4
 
 <div align="center">
   <p>
-    
-![handwriting](https://img.shields.io/badge/label-%E4%B9%A6%E6%B3%95%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%80%85-brightgreen)
-![photography](https://img.shields.io/badge/label-%E6%91%84%E5%BD%B1%E7%88%B1%E5%A5%BD%E8%80%85-green)
-![website](https://img.shields.io/badge/label-%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F%E5%AE%B6-yellowgreen)
-![author](https://img.shields.io/badge/label-%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E4%BD%9C%E8%80%85-yellow)
-![code](https://img.shields.io/badge/label-%E4%BB%A3%E7%A0%81%E6%90%AC%E8%BF%90%E5%B7%A5-orange)
-![search](https://img.shields.io/badge/label-%E6%90%9C%E7%B4%A2%E5%B0%8F%E8%83%BD%E6%89%8B-red)
-![wave](https://img.shields.io/badge/label-%E5%86%B2%E6%B5%AA%E4%B8%80%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98-blue)
-![walk](https://img.shields.io/badge/label-%E6%95%A3%E6%AD%A5%E9%AB%98%E7%BA%A7%E7%8E%A9%E5%AE%B6-success)
-![topic](https://img.shields.io/badge/label-%E8%AF%9D%E9%A2%98%E5%BC%80%E6%8B%93%E8%80%85-important)
-![daily](https://img.shields.io/badge/label-%E6%B5%81%E6%B0%B4%E8%B4%A6%E9%AB%98%E6%89%8B-critical)
-![article](https://img.shields.io/badge/label-%E7%99%BD%E8%AF%9D%E6%96%87%E5%88%B6%E9%80%A0%E6%9C%BA-informational)
-![poem](https://img.shields.io/badge/label-%E7%BE%8E%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%E7%9A%84%E5%9C%A8%E9%80%83%E8%AF%97%E4%BA%BA-blueviolet)
-    
+    <img src="https://img.shields.io/badge/label-%E4%B9%A6%E6%B3%95%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%80%85-brightgreen" alt="handwriting" />
+    <img src="https://img.shields.io/badge/label-%E6%91%84%E5%BD%B1%E7%88%B1%E5%A5%BD%E8%80%85-green" alt="photography" />
+    <img src="https://img.shields.io/badge/label-%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F%E5%AE%B6-yellowgreen" alt="website" />
+    <img src="https://img.shields.io/badge/label-%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E4%BD%9C%E8%80%85-yellow" alt="author" />
+    <img src="https://img.shields.io/badge/label-%E4%BB%A3%E7%A0%81%E6%90%AC%E8%BF%90%E5%B7%A5-orange" alt="code" />
+    <img src="https://img.shields.io/badge/label-%E6%90%9C%E7%B4%A2%E5%B0%8F%E8%83%BD%E6%89%8B-red" alt="search" />
+    <img src="https://img.shields.io/badge/label-%E5%86%B2%E6%B5%AA%E4%B8%80%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98-blue" alt="wave" />
+    <img src="https://img.shields.io/badge/label-%E6%95%A3%E6%AD%A5%E9%AB%98%E7%BA%A7%E7%8E%A9%E5%AE%B6-success" alt="walk" />
+    <img src="https://img.shields.io/badge/label-%E8%AF%9D%E9%A2%98%E5%BC%80%E6%8B%93%E8%80%85-important" alt="topic" />
+    <img src="https://img.shields.io/badge/label-%E6%B5%81%E6%B0%B4%E8%B4%A6%E9%AB%98%E6%89%8B-critical" alt="daily" />
+    <img src="https://img.shields.io/badge/label-%E7%99%BD%E8%AF%9D%E6%96%87%E5%88%B6%E9%80%A0%E6%9C%BA-informational" alt="article" />
+    <img src="https://img.shields.io/badge/label-%E7%BE%8E%E8%80%8C%E4%B8%8D%E8%87%AA%E7%9F%A5%E7%9A%84%E5%9C%A8%E9%80%83%E8%AF%97%E4%BA%BA-blueviolet" alt="poem" />
   </p>
 </div>
 
