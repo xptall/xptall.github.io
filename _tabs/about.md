@@ -38,3 +38,9 @@ order: 4
 **喜欢的工具**：**[Microsoft TO DO](https://todo.microsoft.com/)** ，微软开发的待办工具，简洁大方，没有多余冗杂的功能，且适合多端同步，值得尝试。  
 
 **喜欢的运动**：散步，尤其是在夏日雨天的傍晚，微凉的风，很是令人舒畅。  
+
+## 关于本站
+本站基于 **Jekyll+GitHub Pages** 搭建，采用 **[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)** 主题，并托管在 **[Vercel](https://vercel.com/)** 。    
+特别鸣谢：**[Nihil](https://nihil.cc/)** 的技术文章指导。  
+本站致力于学习与分享，感谢你的关注。
+
