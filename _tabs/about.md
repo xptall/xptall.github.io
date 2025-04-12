@@ -5,9 +5,9 @@ order: 4
 ---
 
 你好，欢迎访问 **Yonejian's Blog**。  
-我是 **Yonejian**，今年 **25** 岁，对互联网领域有着浓厚兴趣，并致力于终身学习。   
+我是 **Yonejian**，今年 **27** 岁，这是一片荒芜的自留地，我打算在这种点什么，试图留住岁月的痕迹。   
 
-欢迎通过[邮箱](mailto:Kerwin0766@gmail.com)的方式与我交流讨论。
+欢迎通过[邮箱](mailto:Kerwin0766@gmail.com)的方式联系，或分享你的想法。
 
 ## 我的标签
 
@@ -26,7 +26,6 @@ order: 4
 
 
 ## 关于本站
-本站基于 **Jekyll+GitHub Pages** 搭建，采用 **[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)** 主题，并托管在 **[Vercel](https://vercel.com/)** 。    
-特别鸣谢：**[Nihil](https://nihil.cc/)** 的技术文章指导。  
-本站致力于学习与分享，感谢你的关注。
+本站基于 **Jekyll+GitHub Pages** 搭建，采用 **[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)** 主题。    
+
 
