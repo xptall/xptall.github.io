@@ -104,14 +104,14 @@ img.preview-img {
     }
 
     &:first-child {
-      border-top-right-radius: 12px;
-      border-bottom-right-radius: 12px;
+      border-top-right-radius: 20px;
+      border-bottom-right-radius: 20px;
       left: 0.5px;
     }
 
     &:last-child {
-      border-top-left-radius: 12px;
-      border-bottom-left-radius: 12px;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
       right: 0.5px;
     }
   }
