@@ -59,20 +59,20 @@
 
   .post-preview {
     padding: 1.5rem; /* 调整内边距 */
-    @include dark-syntax; /* 引用暗黑模式样式 */
-    background-color: var(--highlight-bg-color); /* 暗黑模式背景 */
-    color: var(--filepath-text-color); /* 暗黑模式文本颜色 */
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* 深色阴影 */
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin-bottom: 1rem; /* 增加间距 */
+    background-color: var(--button-bg); /* 设置半透明背景 */
+    border-radius: 8px; /* 边框圆角 */
+    box-shadow: 0 2px 4px var(--btn-border-color); /* 更淡的阴影效果 */
+    border: 1px solid var(--main-border-color); /* 可选：添加边框 */
+
 
 
 
 
     a:hover {
       @extend %link-hover;
-      background-color: #333; /* 鼠标悬停时的背景色 */
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6); /* 增强的阴影效果 */
+      background-color: var(--button-bg); /* 鼠标悬停时更明显 */
+      box-shadow: 0 4px 6px var(--btn-border-color); /* 减淡悬停时的阴影 */
     }
 
     h1 {
