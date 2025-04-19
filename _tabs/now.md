@@ -1,14 +1,26 @@
 ---
-layout: post
+layout: page
 date: 2025-04-19 15:00:00 +0800
 title: 当下
 icon: fas fa-info-circle
 order: 5
-comments: false
-related_posts: false
-post_nav: false
-show_title: false
 ---
+
+<div class="post-meta text-muted">
+    <!-- published date -->
+    <span>
+      {{ site.data.locales[lang].post.posted }}
+      {% include datetime.html date=page.date tooltip=true %}
+    </span>
+
+    <!-- lastmod date -->
+    {% if page.last_modified_at %}
+    <span>
+      {{ site.data.locales[lang].post.updated }}
+      {% include datetime.html date=page.last_modified_at tooltip=true %}
+    </span>
+    {% endif %}
+  </div>
 
 > 更新时间：2025-04-15
 {: .prompt-warning }
