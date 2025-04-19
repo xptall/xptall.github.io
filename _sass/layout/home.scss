@@ -58,12 +58,13 @@
   padding-right: 0.5rem;
 
   .post-preview {
-    @include dark-syntax; /* 引用暗黑模式样式 */
-    background-color: var(--highlight-bg-color); /* 暗黑模式背景 */
-    color: var(--filepath-text-color); /* 暗黑模式文本颜色 */
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* 深色阴影 */
-    border: 1px solid rgba(255, 255, 255, 0.1);*/
+    padding: 1.5rem; /* 调整内边距 */
+    margin-bottom: 1rem; /* 增加间距 */
+    background-color: var(--highlight-bg-color)
+    border-radius: 8px; /* 边框圆角 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* 更淡的阴影效果 */
+    border: 1px solid var(--main-border-color); /* 可选：添加边框 */
+
 
 
     a:hover {
