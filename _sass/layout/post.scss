@@ -71,6 +71,7 @@ img.preview-img {
     @include btn-post-nav;
 
     color: var(--link-color);
+    margin: 0 8px; /* 左右间距为 8px，可根据需要调整 */
 
     &:hover {
       background: #2a408e;
