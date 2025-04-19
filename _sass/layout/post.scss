@@ -72,6 +72,7 @@ img.preview-img {
 
     color: var(--link-color);
     margin: 0 8px; /* 左右间距为 8px，可根据需要调整 */
+    border-radius: 20px; /* 如果需要圆角，也可以调整这里 */
 
     &:hover {
       background: #2a408e;
