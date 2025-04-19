@@ -1,30 +1,11 @@
 ---
 layout: page
-date: 2025-04-19 15:00:00 +0800
 title: 当下
 icon: fas fa-info-circle
 order: 5
 ---
 
-<div class="post-meta text-muted">
-    <!-- published date -->
-    <span>
-      <p>发表时间：</p>
-      {{ site.data.locales[lang].post.posted }}
-      {% include datetime.html date=page.date tooltip=true %}
-    </span>
-
-    <!-- lastmod date -->
-    {% if page.last_modified_at %}
-    <span>
-      <p>更新时间：</p>
-      {{ site.data.locales[lang].post.updated }}
-      {% include datetime.html date=page.last_modified_at tooltip=true %}
-    </span>
-    {% endif %}
-  </div>
-
-> 更新时间：2025-04-15
+> 更新时间：2025-04-19
 {: .prompt-warning }
 
 **「当下」** 是指现阶段以及未来一段时间内正在做的事情，这些事情从侧面描绘了我的生活近况，且随时间而发生改变。
