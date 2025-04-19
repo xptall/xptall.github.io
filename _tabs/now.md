@@ -1,18 +1,17 @@
 ---
 layout: page
+date： 2025-04-19 15:00:00 +0800
 title: 当下
-updated: 2025-04-19
 icon: fas fa-info-circle
 order: 5
+comments: false
+related_posts: false
+post_nav: false
+show_title: false
 ---
 
 > 更新时间：2025-04-15
 {: .prompt-warning }
-
-> 更新时间：{{ page.last_modified_at | date: "%Y-%m-%d" }}
-{: .prompt-warning }
-
-测试的
 
 **「当下」** 是指现阶段以及未来一段时间内正在做的事情，这些事情从侧面描绘了我的生活近况，且随时间而发生改变。
 
