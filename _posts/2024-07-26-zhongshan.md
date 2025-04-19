@@ -1,7 +1,7 @@
 ---
 title: "又见中山"
 date: 2024-07-26 20:40:00 +0800
-categories: [随笔]
+categories: [异城山水]
 tags: [中山]
 ---
 
