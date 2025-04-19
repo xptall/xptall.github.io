@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 date： 2025-04-19 15:00:00 +0800
 title: 当下
 icon: fas fa-info-circle
