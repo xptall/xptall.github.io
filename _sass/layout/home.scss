@@ -76,7 +76,7 @@
     }
 
     h1 {
-      font-size: 1.4rem;
+      font-size: 1.2rem;
       margin: 0;
     }
 
@@ -98,6 +98,7 @@
       margin-top: 0.6rem;
       margin-bottom: 0.6rem;
       color: var(--post-list-text-color);
+      font-size: 0.9rem; /* 文章内容字体变小 */
 
       > p {
         /* Make preview shorter on the homepage */
