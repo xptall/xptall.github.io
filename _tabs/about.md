@@ -1,6 +1,6 @@
 ---
 title: Yonejian's Blog
-icon: fas fa-info-circle
+icon: fas fa-user
 order: 4 
 ---
 
