@@ -41,7 +41,7 @@ body {
 h1 {
   @extend %heading;
 
-  font-size: 1.9rem;
+  font-size: 1.7rem;
 }
 
 h2 {
@@ -448,8 +448,8 @@ img[data-src] {
 }
 
 .post-content {
-  font-size: 1.08rem;
-  line-height: 1.8;
+  font-size: 0.95rem;
+  line-height: 1.6;
   margin-top: 2rem;
   overflow-wrap: break-word;
   word-wrap: break-word;
